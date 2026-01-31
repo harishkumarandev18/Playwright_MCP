@@ -1,2 +1,4 @@
-# Playwright_MCP
-Generate PlaywrightTest using PlaywrightMCP
+# Playwright\_MCP
+
+Generate API PlaywrightTest using PlaywrightMCP
+
